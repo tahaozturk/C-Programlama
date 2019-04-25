@@ -1,2 +1,2 @@
-# Youtube-Kanal-
-Kod Örnekleri Buraya
+# C Kod Örnekleri
+
