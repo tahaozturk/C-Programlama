@@ -1,7 +1,11 @@
+// Ekrandan çıktı almamızı sağlayan kod.
+
 #include <stdio.h>
 
 int main()
 {
 	printf("Merhaba C!");
+	
 	system("pause");
+	return 0;
 }
